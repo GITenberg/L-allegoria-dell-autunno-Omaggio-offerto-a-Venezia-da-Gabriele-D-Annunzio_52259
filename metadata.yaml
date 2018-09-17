@@ -1,5 +1,8 @@
 _repo: L-allegoria-dell-autunno-Omaggio-offerto-a-Venezia-da-Gabriele-D-Annunzio_52259
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52259-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52259#L-allegoria-dell-autunno-Omaggio-offerto-a-Venezia-da-Gabriele-D-Annunzio
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2016-06-07'
 gutenberg_type: Text
